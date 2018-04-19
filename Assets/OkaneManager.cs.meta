@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e2e738228fb1c4b2f8166e2b59a6e447
+timeCreated: 1520337988
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - okanePrefab: {fileID: 1081184450768492, guid: e080ef7044e9d4c229120b1ce53a28eb,
+      type: 2}
+  - canvasGame: {instanceID: 0}
+  - textScore: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
